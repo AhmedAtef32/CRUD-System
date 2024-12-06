@@ -1,0 +1,29 @@
+/* body{
+    background-color: #1E2530;
+} */
+.img-card{
+    aspect-ratio: 16/9;
+    object-fit: contain;
+}
+
+ .img-input{
+    position: relative;
+ }
+ .img-input > span {
+    position: absolute;
+    top: 64%;
+    right: 66%;
+    width: 50%;
+    transform: translate(50%, -50%);
+    background-color: white;
+    color: rgb(0, 0, 0);
+
+
+ }
+
+ /* .card{
+    background-color: #2C2F32;
+    color: white;
+ } */
+
+
