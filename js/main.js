@@ -1,5 +1,4 @@
 // Start Definition of variables
-
 let productNameInput = document.getElementById("productName");
 let productPriceInput = document.getElementById("productPrice");
 let productCategoryInput = document.getElementById("productCategory");
